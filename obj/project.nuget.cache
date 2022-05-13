@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9qXp+MIaKgJ+uCndlFdWTeY/4xp41ETJEER4wNsyrORdwNkNriHyYijYz80Du+AAEcXdrSUSTF907DB8sClkg==",
+  "success": true,
+  "projectFilePath": "/Users/som/Downloads/projects/omise-dotnet-example/omise-dotnet-example.csproj",
+  "expectedPackageFiles": [
+    "/Users/som/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/som/.nuget/packages/omise/2.7.13/omise.2.7.13.nupkg.sha512"
+  ],
+  "logs": []
+}
